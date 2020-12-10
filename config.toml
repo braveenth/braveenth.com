@@ -3,6 +3,7 @@ title        = "Braveenth's Site"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+disableKinds = "RSS"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -20,7 +21,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Braveenth Rasanayagam's Personal Website that has posts and projects."
   keywords = "homepage, blog"
   images = [""]
 
@@ -34,14 +35,14 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Braveenth's Blog"
-    subtitle = "A simple theme for Hugo"
+    title = "Braveenth's Site"
+    subtitle = ""
     keywords = ""
     # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Braveenth's Blog"
+      logoText = "Braveenth's Site"
       logoHomeLink = "/"
     # or
     #
@@ -50,16 +51,16 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts/index.html"
 
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "/projects"
+    url        = "/projects/index.html"
 
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
+    url        = "/about/index.html"

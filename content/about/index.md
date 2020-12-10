@@ -6,8 +6,14 @@ draft: false
 
 ## Skills
 
-Inventory of Skills will be added here.
+Languages: Python, Golang, bash, C#, C++, JavaScript, Racket
+
+DevOps, Infrastructure-as-Code, Terraform, CI-CD, Python, Golang, Big Data Warehousing and Analytics, Network Design, System Administration, Python, Golang, Git, Presentations, Project Management, Hardware and Software Troubleshooting, Cryptography, Process Improvement, Distributed Computing, Cyber Security, Econometrics, C#, Public Speaking
 
 ## Contact
 
 Location: Toronto, Ontario
+
+## Links
+LinkedIn: https://linkedin.com/in/braveenth/
+GitHub: https://gitlab.com/braveenth
