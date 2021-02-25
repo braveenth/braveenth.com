@@ -7,3 +7,5 @@ draft: false
 The goal of this project is to stream data collected from an ELM327 Bluetooth Module to Kafka.
 
 From Kafka, we can consume the data to create alerts, stats, and visualizations.
+
+Please contact Braveenth for access to this project.
