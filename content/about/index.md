@@ -16,4 +16,4 @@ Location: Toronto, Ontario
 
 ## Links
 LinkedIn: https://linkedin.com/in/braveenth/
-GitHub: https://gitlab.com/braveenth
+GitHub: https://github.com/braveenth
